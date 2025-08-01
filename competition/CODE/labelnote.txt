@@ -12,8 +12,43 @@
 | water color   | 9     |
 
 
+{'Ink scenery': 0, 
+'comic': 1, 
+'cyberpunk': 2,
+'futuristic UI': 3, 
+'lowpoly': 4, 
+'oil painting': 5, 
+'pixel': 6, 
+'realistic': 7, 
+'steampunk': 8, 
+'water color': 9, 
+'UNK': 10}
+
+
 NOTE FOR ME
 I JUST KEEP FORGETTING
 ❤️❤️❤️❤️❤️❤️❤️❤️LUV U SAIG❤️❤️❤️❤️❤️❤️❤️❤️
 
 I WANT TO BE A PART OF SAIG 
+
+
+resnet18 Version 1 Epoch 5
+
+Training loop: 100%|██████████| 162/162 [01:13<00:00,  2.19it/s]
+Validation loop: 100%|██████████| 41/41 [00:13<00:00,  3.07it/s]
+Epoch 1/5 - Train loss: 1.0948351158240848, Validation loss: 1.53594865872593, F1 Score: 0.4690194776378072
+Training loop: 100%|██████████| 162/162 [01:13<00:00,  2.20it/s]
+Validation loop: 100%|██████████| 41/41 [00:13<00:00,  3.11it/s]
+Epoch 2/5 - Train loss: 0.7731541366628738, Validation loss: 1.0561210334991395, F1 Score: 0.6781274934495183
+Training loop: 100%|██████████| 162/162 [01:14<00:00,  2.18it/s]
+Validation loop: 100%|██████████| 41/41 [00:13<00:00,  3.10it/s]
+Epoch 3/5 - Train loss: 0.6604872672966864, Validation loss: 1.027060282828725, F1 Score: 0.6980586138739087
+Training loop: 100%|██████████| 162/162 [01:25<00:00,  1.88it/s]
+Validation loop: 100%|██████████| 41/41 [00:13<00:00,  3.11it/s]
+Epoch 4/5 - Train loss: 0.6289045897296628, Validation loss: 0.7608915470281623, F1 Score: 0.7310211502243873
+Training loop: 100%|██████████| 162/162 [01:12<00:00,  2.23it/s]
+Validation loop: 100%|██████████| 41/41 [00:13<00:00,  3.12it/s]
+Epoch 5/5 - Train loss: 0.5392297910759586, Validation loss: 0.6508775934749589, F1 Score: 0.7604609831701208
+
+
+
