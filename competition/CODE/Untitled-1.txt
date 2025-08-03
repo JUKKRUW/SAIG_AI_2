@@ -1,0 +1,30 @@
+Training loop: 100%|██████████| 162/162 [09:29<00:00,  3.52s/it]
+Validation loop: 100%|██████████| 41/41 [00:27<00:00,  1.48it/s]
+Epoch 1/10 - Train loss: 0.7645503013543036, Validation loss: 0.7452985084655201, F1 Score: 0.9081923935344618
+Training loop: 100%|██████████| 162/162 [07:33<00:00,  2.80s/it]
+Validation loop: 100%|██████████| 41/41 [00:27<00:00,  1.51it/s]
+Epoch 2/10 - Train loss: 0.6971340724821253, Validation loss: 0.7597196163818183, F1 Score: 0.9020693902058043
+Training loop: 100%|██████████| 162/162 [08:20<00:00,  3.09s/it]
+Validation loop: 100%|██████████| 41/41 [00:27<00:00,  1.49it/s]
+Epoch 3/10 - Train loss: 0.6513460372478185, Validation loss: 0.7600693999110042, F1 Score: 0.9032930672693628
+Training loop: 100%|██████████| 162/162 [18:04<00:00,  6.70s/it]
+Validation loop: 100%|██████████| 41/41 [00:41<00:00,  1.02s/it]
+Epoch 4/10 - Train loss: 0.6293913376570853, Validation loss: 0.7338197219325769, F1 Score: 0.9103854118504124
+Training loop: 100%|██████████| 162/162 [07:17<00:00,  2.70s/it]
+Validation loop: 100%|██████████| 41/41 [00:23<00:00,  1.74it/s]
+Epoch 5/10 - Train loss: 0.6178471758339836, Validation loss: 0.7301817167679776, F1 Score: 0.9143642299627299
+Training loop: 100%|██████████| 162/162 [07:07<00:00,  2.64s/it]
+Validation loop: 100%|██████████| 41/41 [00:27<00:00,  1.52it/s]
+Epoch 6/10 - Train loss: 0.603875537744077, Validation loss: 0.7356356025202394, F1 Score: 0.9128933123966784
+Training loop: 100%|██████████| 162/162 [06:40<00:00,  2.47s/it]
+Validation loop: 100%|██████████| 41/41 [00:27<00:00,  1.50it/s]
+Epoch 7/10 - Train loss: 0.6079959261362115, Validation loss: 0.7123055209064115, F1 Score: 0.9113670145837979
+Training loop: 100%|██████████| 162/162 [06:32<00:00,  2.42s/it]
+Validation loop: 100%|██████████| 41/41 [00:24<00:00,  1.68it/s]
+Epoch 8/10 - Train loss: 0.5879075370579268, Validation loss: 0.7669551158503676, F1 Score: 0.8846400414037598
+Training loop: 100%|██████████| 162/162 [06:32<00:00,  2.43s/it]
+Validation loop: 100%|██████████| 41/41 [00:23<00:00,  1.71it/s]
+Epoch 9/10 - Train loss: 0.5775811909892276, Validation loss: 0.776664857422523, F1 Score: 0.900937062263299
+Training loop: 100%|██████████| 162/162 [06:36<00:00,  2.45s/it]
+Validation loop: 100%|██████████| 41/41 [00:24<00:00,  1.70it/s]
+Epoch 10/10 - Train loss: 0.5741955454603782, Validation loss: 0.7366965505147073, F1 Score: 0.9027090056124785
